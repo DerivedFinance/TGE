@@ -1,6 +1,6 @@
 # tge-smart-contracts
 
-Smart Contracts for TGE, Upgradeable ERC20, Vesting with Testcases &amp; Staking
+Smart Contracts for TGE
 
 ## 1. DVD Token
 
