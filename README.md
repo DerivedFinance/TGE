@@ -2,7 +2,7 @@
 
 Smart Contracts for TGE
 
-## 1. DVD Token
+## 1. DVDX Token
 
 ### Installation
 
