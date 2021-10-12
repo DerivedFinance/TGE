@@ -639,7 +639,7 @@ contract ERC20Upgradeable is
 
 contract DerivedToken is Initializable, ERC20Upgradeable, OwnableUpgradeable {
     function initialize() public initializer {
-        __ERC20_init("Derived", "DVD");
+        __ERC20_init("Derived", "DVDX");
 
         _mint(msg.sender, 1000000000 * 10**decimals());
 
